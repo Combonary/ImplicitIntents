@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="edittext_uri">Enter website</string>
+    <string name="button_uri">Open Website</string>
+
+    <string name="edittext_loc">Search Place</string>
+    <string name="button_loc">Open Location</string>
+
+    <string name="edittext_share">Enter text</string>
+    <string name="button_share">Share This Text</string>
+    <string name="share_text_with">Share this text with:</string>
+</resources>
